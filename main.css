@@ -1,0 +1,54 @@
+body {
+  background-color: gray;
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  margin: 0em;
+}
+main {
+  background-color: antiquewhite;
+  max-width: 560px;
+  margin: 0 auto;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+}
+header {
+  font-family: "Roboto", sans-serif;
+  font-size: 2em;
+  text-align: center;
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-bottom: 3px solid gray;
+}
+img {
+  max-width: 400px;
+  display: block;
+  border-radius: 20px;
+  border: 2px solid black;
+  margin-bottom: 1em;
+  box-shadow: 3px 3px 5px black;
+  padding-left: auto;
+  padding-right: auto;
+  margin: 1.5em 2.5em 2.5em 2.5em;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+hr {
+  background-color: black;
+  height: 0.2rem;
+}
+footer {
+  text-align: center;
+}
